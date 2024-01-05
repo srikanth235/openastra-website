@@ -30,7 +30,7 @@ export default function Hero() {
               <div data-aos="fade-up" data-aos-delay="600">
                 <a
                   className="btn text-white bg-purple-600 hover:bg-purple-700 w-full sm:w-auto sm:ml-4 flex gap-3 items-center justify-center"
-                  href="https://marketplace.visualstudio.com/items?itemName=OpenAstra.openastra-bob-vscode"
+                  href="https://marketplace.visualstudio.com/items?itemName=Privy.privy-vscode"
                 >
                   <svg
                     className="h-5 w-5 text-white"
